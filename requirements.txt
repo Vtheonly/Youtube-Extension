@@ -109,12 +109,11 @@ prompt_toolkit==3.0.48
 
 
 
-proton-vpn-gtk-app
-proton-vpn-network-manager==0.9.7
+
+
 psutil==5.9.8
 ptyprocess==0.7.0
 pure_eval==0.2.3
-PyBluez==0.23
 pycairo==1.26.1
 pycares==4.4.0
 pycparser==2.22
